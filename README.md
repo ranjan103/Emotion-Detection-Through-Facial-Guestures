@@ -2,7 +2,7 @@
  
 # Training Phase  
 The proposed network has been trained with about 7800 training images (70% of the
-images after pre-processing) taken from FER-2013 [10] database. This database contains
+images after pre-processing) taken from FER-2013  database. This database contains
 seven standard categories of emotions for every subject. During training process deep
 convolutional neural network has been applied for feature extraction and training clas‐
 sification. It uses supervised learning approach over huge number of images. 
